@@ -1,4 +1,4 @@
-🎬 Movie Recommendation Analysis
+# 🎬 Movie Recommendation Analysis
 📌 Project Overview
 
 This project focuses on analyzing movie ratings data and building a movie recommendation system using data analytics techniques.
